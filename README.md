@@ -2,6 +2,3 @@ A beginner project for practicing loops, arithmetic operations, and formatted ou
 It starts from 0°F and goes up to 300°F, increasing in steps of 20°F.
 
 
-to do
-- convert data type from int to float to avoid truncation
-- format conversion print output. 
